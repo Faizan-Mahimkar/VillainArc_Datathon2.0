@@ -3,11 +3,7 @@ An application to self identify the mental health status of a person and provide
 
 # Table of content
 1. [MindEase](#MindEase)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Features](#features)
-5. [Contributing](#contributing)
-6. [License](#license)
+2. [Features](#features)
 
 
 ## Problems Identified:
