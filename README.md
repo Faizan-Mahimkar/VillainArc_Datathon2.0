@@ -1,7 +1,13 @@
 # **MindEase: Proactive Mental Health Companion**
 An application to self identify the mental health status of a person and provide guidance for support.
 
-Check out our [documentation](url_to_docs) for more details.
+# Table of content
+1. [MindEase](#MindEase)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 
 ## Problems Identified:
