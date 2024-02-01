@@ -1,5 +1,6 @@
-# VillainArc_Datathon2.0
+# MindEase
 
+An application to self identify the mental health status of a person and provide guidance for support
 
 ## Problems Identified:
 
